@@ -8,9 +8,9 @@ My name is Zalina and I am a JavaScript developer with biotech scientific backgr
 
 ### Some of my projects
 
-Cryptocurrency exchange rate parsing app (https://github.com/ZalinaMag/cryptocurrency-exchange-rate-parsing-app) - Headless backend application that continuously monitors price changes and manages email notifications
-Museum card ( ) -
-fetching-users-app (https://github.com/ZalinaMag/fetching-users-app) - This is a project to fetch mock users data from JSONPlaceholder's /users endpoint and render them in ascending alphabetical order by first name.
+- Cryptocurrency exchange rate parsing app (https://github.com/ZalinaMag/cryptocurrency-exchange-rate-parsing-app) - Headless backend application that continuously monitors price changes and manages email notifications.
+- Museum card ( ) - description.
+- Fetching-users-app (https://github.com/ZalinaMag/fetching-users-app) - This is a project to fetch mock users data from JSONPlaceholder's /users endpoint and render them in ascending alphabetical order by first name.
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/zalina-magomedova/)
