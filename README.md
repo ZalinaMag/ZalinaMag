@@ -10,6 +10,7 @@ My name is Zalina and I am a JavaScript developer with biotech scientific backgr
 
 - [Cryptocurrency exchange rate parsing app](https://github.com/ZalinaMag/cryptocurrency-exchange-rate-parsing-app) - Headless backend application that continuously monitors price changes and manages email notifications.
 - [Fetching-users-app](https://github.com/ZalinaMag/fetching-users-app) - This is a project to fetch mock users data from JSONPlaceholder's /users endpoint and render them in ascending alphabetical order by first name.
+- [Watch-app](https://github.com/ZalinaMag/watch-app) - an SSR React web app with assortment of custom watches, where users can browse models, view details, and place orders.
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/zalina-magomedova/)
