@@ -8,10 +8,10 @@ My name is Zalina and I am a JavaScript developer with biotech scientific backgr
 
 ### Some of my projects
 
-- [Cryptocurrency exchange rate parsing app](https://github.com/ZalinaMag/cryptocurrency-exchange-rate-parsing-app) - Headless backend application that continuously monitors price changes and manages email notifications.
-- [Fetching users app](https://github.com/ZalinaMag/fetching-users-app) - This is a project to fetch mock users data from JSONPlaceholder's /users endpoint and render them in ascending alphabetical order by first name.
-- [Watch app](https://github.com/ZalinaMag/watch-app) - An SSR React web app with assortment of custom watches, where users can browse models, view details, and place orders.
-- [Museum card app](https://github.com/ZalinaMag/museum-card-app) - A role-based museum card web app where users can browse and “purchase” museum cards, check in via QR codes, and save favorites, while administrators manage museum data and view visit statistics. 
+- [Cryptocurrency Exchange Rate Parsing App](https://github.com/ZalinaMag/cryptocurrency-exchange-rate-parsing-app) - Headless backend application that continuously monitors price changes and manages email notifications.
+- [Fetching Users App](https://github.com/ZalinaMag/fetching-users-app) - This is a project to fetch mock users data from JSONPlaceholder's /users endpoint and render them in ascending alphabetical order by first name.
+- [Watch App](https://github.com/ZalinaMag/watch-app) - An SSR React web app with assortment of custom watches, where users can browse models, view details, and place orders.
+- [Museum Card App](https://github.com/ZalinaMag/museum-card-app) - A role-based museum card web app where users can browse and “purchase” museum cards, check in via QR codes, and save favorites, while administrators manage museum data and view visit statistics. 
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/zalina-magomedova/)
